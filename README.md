@@ -1,6 +1,11 @@
 # Java Mail Sender
 
+Lib: JavaMail
+
+API: https://mailtrap.io/
+
 Json request code:
+
 ``
 {
     "name":"Junior",

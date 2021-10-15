@@ -44,6 +44,6 @@ public class FeedbackController {
 		
 		//Send email
 		mailSender.send(mailMessage);
-		log.info("Name: "+feedback.getName()+" | Email: "+feedback.getEmail()+" | Feedback: "+feedback.getFeedback());
+//		log.info("Name: "+feedback.getName()+" | Email: "+feedback.getEmail()+" | Feedback: "+feedback.getFeedback());
 	}
 }
