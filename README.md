@@ -1,8 +1,10 @@
 # Java Mail Sender
 
 Json request code:
-``{
+``
+{
     "name":"Junior",
-	  "email":"junior@gmail.com",
-	  "feedback":"Your App is awesome!"
-  }``
+    "email":"junior@gmail.com",
+    "feedback":"Your App is awesome!"
+}
+``
