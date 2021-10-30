@@ -2,6 +2,8 @@
 
 Lib: JavaMail
 
+Framework: Spring Boot
+
 API: https://mailtrap.io/
 
 Json request code:
